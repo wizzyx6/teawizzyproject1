@@ -1,6 +1,6 @@
 {
   "name": "teawizzyproject1",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "author": "stefanstoll <imstefan@icloud.com>",
   "keywords": [],
@@ -23,7 +23,6 @@
     "twit": "^2.2.11",
     "viem": "^1.7.0",
     "dagedaer": "^0.1.0"
-
   },
   "devDependencies": {
     "@types/twit": "^2.2.32",
